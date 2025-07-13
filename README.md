@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi 
+I'm a fourth year cybersecurity student interested in Blue Team operations, system protection, log analysis, and incident response. Currently seeking growth in a SOC environment.
 
-<!--
-**MikolajWysocki/MikolajWysocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is a link to my website: https://mikolajwysocki.github.io
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Tools
+
+### 🛡️ Blue Team & Defensive Security
+- 🔍 Log Analysis & Correlation
+- 📊 SIEM Platforms (e.g., Wazuh, Splunk)
+- 🛠️ EDR Solutions
+- 🚨 Incident Response & Threat Hunting
+- 🔐 System Hardening & Patch Management
+
+### ⚙️ SOC & Automation
+- 🔄 Security Orchestration (e.g., Shuffle)
+- 🐝 TheHive for Incident Management
+- 📡 Network Monitoring & IDS (e.g., Suricata, Snort)
+
+### 🧰 General Tools & Platforms
+- 🐧 Linux (Ubuntu, Kali)
+- 🪟 Windows Server & Workstation Environments
+- 📁 Scripting (Bash, Python)
+
+### 🧩 Soft Skills
+- 📚 Strong Analytical Thinking
+- 👥 Team Collaboration & Incident Coordination
+- 🗣️ Public Speaking
